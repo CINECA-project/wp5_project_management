@@ -4,7 +4,7 @@ CINECA WP5 Project Planning
 
 * Milestones: 
 
-| # | Milestone title | Lead beneficiary | Due Date (in Means of verification months) |
+| # | Milestone title | Lead beneficiary | Due Date (in month) |
 | -----------------|-----------------|------------------|------------------------------------------- |
 | MS19 | <a name="Seamless integration with WP2" href="https://docs.google.com/presentation/d/1sOI3pXk01ewnb4qnfYU1PnXbNIIyX4O5N-370HtACKc/edit#slide=id.p1">  Seamless integration with WP2</a>   | 5 - EMC | 12 | Demonstrator is functional. |
 | MS20 | <a name="Secured Seamless integration with WP2" href="https://docs.google.com/presentation/d/1Zil1d-oJKiLOCbVDDjfC2_OX-3ZRKTqtCnm0fc4Ri6o/edit#slide=id.p1">Secured Seamless integration with WP2, 3 and 5</a> | 5 - EMC | 18 | Demonstrator is functional. |
