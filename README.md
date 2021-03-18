@@ -16,6 +16,7 @@ CINECA WP5 Project Planning
 | # | Deliverable Title | Lead beneficiary | Type | Due Date (in months) | Progress |
 |--- | ---------------------------------- | ---------------- | ---- | ------------------- | -------------------- |
 | D5.1 | Federated Data Analytics for European Biobanks | 3 - HES-SO |  Demonstrator | 36 | ![50%](https://progress-bar.dev/50/) |
-| D5.2 | Universal FAIR Data Compliant Federated Biomarker Discovery Service | 5 - EMC | Demonstrator | 48 | |
-| D5.3 | GDPR and FAIR compliant Diagnostic Services |  13 - UMCG |  Demonstrator | 48 | |
+| D5.2 | Universal FAIR Data Compliant Federated Biomarker Discovery Service | 5 - EMC | Demonstrator | 48 | ![30%](https://progress-bar.dev/50/)  |
+
+| D5.3 | GDPR and FAIR compliant Diagnostic Services |  13 - UMCG |  Demonstrator | 48 |![26.5%](https://progress-bar.dev/50/) |
 | D5.4 | Curation-support for care planning | 4 - SIB |  Report | 48 | |
